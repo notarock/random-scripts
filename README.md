@@ -4,4 +4,4 @@
 
 #### selenium-spammer 
 
-Load a web page and try to login `n` times directly using firefox. Require selenium and geckodriver
+Load a web page and try to login `n` times using firefox. Require selenium and geckodriver
