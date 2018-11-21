@@ -1,5 +1,11 @@
 # Random scripts
 
+## Bash:
+
+### JSON parser
+
+Pure bash JSON formatting tool
+
 ## Python:
 
 #### selenium-spammer 
