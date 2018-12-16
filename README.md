@@ -10,4 +10,8 @@ Pure bash JSON formatting tool
 
 #### selenium-spammer 
 
+## C:
+
+#### Parenthesis validator
+
 Load a web page and try to login `n` times using firefox. Require selenium and geckodriver
