@@ -19,7 +19,7 @@ while count != 0:
 
     p.send_keys(Keys.RETURN)
 
-    coun = count - 1
+    count -= 1
 
 driver.close()
 
