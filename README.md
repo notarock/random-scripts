@@ -1,5 +1,11 @@
 # Random scripts
 
+## Lisp:
+
+### Association list diagram printer
+
+Print a assoc using Graphviz
+
 ## Bash:
 
 ### JSON parser
